@@ -1,0 +1,161 @@
+.name h1{
+	font-size: 40px;
+	font-weight: bold;
+	font-family: Book Antiqua;
+	/*width: 700px;*/
+	/*padding-left: 500px;*/
+	margin-top: 5px;
+	padding-top: 0px;
+}
+.name h3{
+	font-size: 20px;
+	text-align: justify;
+	/*float: right;*/
+	margin-right: 100px;
+}
+
+.intro h3{
+    font-size: 23px;
+    text-align: justify;
+    /*float: right;*/
+    margin-right: 100px;
+}
+
+.name img{
+	width: 220px;
+	height: 240px;
+	margin-left: 50px;
+	float: left;
+	margin-right: 50px;
+	margin-top: 10px;
+	padding-bottom: 10px;
+}
+.name{
+	margin-top: 20px;
+	background: #e3e3e3;
+	overflow: hidden;
+	margin-left: 50px;
+	margin-right: 50px;
+	/*padding-left: 50px;*/
+}
+
+.menu li{
+	display: inline;
+	font-size:29px;
+	color: white;
+	padding: 40px;
+	font-weight: bold;
+}
+
+.menu li a{
+	text-decoration: none;
+	color: white;
+}
+
+.menu a:hover{
+	color: black;
+}
+
+/*.course a:hover{
+	color: black;
+}*/
+
+.menu ul{
+	list-style: none;
+	text-align: right;
+	background: #4d4d4d;
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-top: 0px;
+    padding: 5px;
+}
+
+/*ol {
+    line-height:200%
+}*/
+
+.content{
+	padding-left: 50px;
+	font-family: Trebuchet MS;
+	margin-bottom: 100px;
+    font-size: 17px;
+}
+
+.content h2{
+	/*font-size: 30px;*/
+	font-style: italic;
+	font-weight: bold;
+    font-family: Comic Sans MS;
+    font-size: 22px;
+}
+
+.news{
+    font-family: Comic Sans MS;
+    font-weight: bold;
+    color: blue;
+    font-size: 17px;
+}
+
+.news_list{
+    line-height: 25px;
+    font-size: 17px;
+    font-family: Comic Sans MS;
+}
+
+.publication{
+	line-height: 30px;
+	margin-right: 40px;
+    font-size: 18px;
+    /*margin: 17px;*/
+}
+
+.experience{
+    line-height: 25px;
+    margin-right: 40px;
+    font-size: 18px;
+}
+
+.project{
+	line-height: 28px;
+	margin-right: 40px;
+    font-size: 19px;
+
+}
+
+.people{
+    line-height: 28px;
+    margin-right: 40px;
+    font-size: 19px;
+
+}
+
+.google a{
+	text-decoration: none;
+    font-family: Book Antiqua;
+	color: red;
+	font-size: 20px;
+}
+.google a:hover{
+	color: blue;
+}
+.edu{
+	line-height: 25px;
+    font-size: 18px;
+}
+.tech{
+	padding-left: 25px;
+    font-size: 18px;
+}
+.tech a{
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+    font-size: 18px;
+}
+
+.page,.bodys{
+    margin-top:0px;
+    padding:0px;
+}
+
+
